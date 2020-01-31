@@ -1,4 +1,4 @@
-# Translation_tockCSP_TA
+# A repository for the translation of tockCSP into Timed Automata
 
 Translation of tock-CSP to Timed Automata for UPPAAL
 This is repository for the work on translatiing tock-CSP to Timed Automata for UPPAAL.
