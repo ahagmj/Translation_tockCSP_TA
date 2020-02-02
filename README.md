@@ -6,7 +6,9 @@ This is repository for the work on translatiing tock-CSP to Timed Automata for U
 The repository contains:
 
 1- A report for the translation work.
+
 2- A software for automating the translation technique.
+
 3- Other relevant materials for both trace analysis and performance analysis.
 
 
