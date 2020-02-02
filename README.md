@@ -13,7 +13,7 @@ The repository contains:
 
 
 NOTE:
-Running the only the translation tool requires Haskell compiler because the application was developed with Haskell. While generating traces require FDR and UPPAAL. UPPAAL tool is included in the translation tool, but FDR is not included. Therefore FDR needs to be installed in the system before running the application.
+Running the translation tool requires Haskell compiler because the application was developed with Haskell. While generating traces require FDR and UPPAAL. UPPAAL tool is included in the translation tool, but FDR is not included. Therefore FDR needs to be installed in the system before running the application.
 
 
 
